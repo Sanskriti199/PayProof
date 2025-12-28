@@ -55,9 +55,9 @@ The project focuses on building a practical and easy‑to‑use solution that im
 
 ## Team and Contributions
 
-This project was developed by a two‑member team with clearly defined responsibilities.
+This project was developed by a two‑member team .
 
-### Sanskriti – Backend and AI/ML
+### Sanskriti Mittal – Backend and AI/ML
 - Image forensics and preprocessing using OpenCV  
 - OCR‑based text extraction from UPI screenshots  
 - Machine learning model for screenshot classification  
