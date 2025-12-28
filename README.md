@@ -9,8 +9,6 @@ UPI payments are widely used in everyday transactions, but fake payment screensh
 
 The project focuses on building a practical and easy‑to‑use solution that improves awareness and helps reduce common UPI‑related scams.
 
----
-
 ## Key Features
 
 ### Screenshot Verification
@@ -25,8 +23,6 @@ The project focuses on building a practical and easy‑to‑use solution that im
   - Likely Fake
 - A short explanation is provided for transparency
 
----
-
 ### Payment Risk Analysis
 - Users enter basic payment details such as:
   - Amount
@@ -37,8 +33,6 @@ The project focuses on building a practical and easy‑to‑use solution that im
   - Medium Risk
   - High Risk
 - Each result includes a clear reason for the assigned risk level
-
----
 
 ## Tech Stack
 
@@ -51,19 +45,13 @@ The project focuses on building a practical and easy‑to‑use solution that im
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
 
----
-
 ### Frontend
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
-
----
 
 ### Development Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
-
----
 
 ## Team and Contributions
 
@@ -83,8 +71,6 @@ This project was developed by a two‑member team with clearly defined responsib
 - Integration of frontend with backend APIs  
 - Documentation and user flow design  
 
----
-
 ## System Workflow
 1. User uploads a screenshot or enters payment details  
 2. Frontend sends data to backend APIs  
@@ -92,15 +78,11 @@ This project was developed by a two‑member team with clearly defined responsib
 4. Results are returned to the frontend  
 5. User receives verification status and risk level with explanation  
 
----
-
 ## Future Scope
 - Expanding the dataset with more real‑world samples  
 - Supporting additional UPI apps and layouts  
 - Improving UI for mobile responsiveness  
 - Enhancing fraud detection accuracy  
-
----
 
 ## Disclaimer
 This project is developed for educational purposes and provides risk indications, not guaranteed fraud detection.
