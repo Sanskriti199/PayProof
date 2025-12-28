@@ -34,6 +34,12 @@ The project focuses on a practical, easy‑to‑use solution for improving UPI p
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
 
+## User Flow
+1. User uploads screenshot
+2. User enters payment details
+3. Clicks Check Payment
+4. Sees risk result + explanation
+
 ## How It Works
 1. User uploads a UPI screenshot or enters payment details  
 2. Frontend sends data to backend APIs  
